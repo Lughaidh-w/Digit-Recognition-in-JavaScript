@@ -7,3 +7,7 @@ The dataset comes flattened and normalised in this package.
 ## Aims
 
 The goal of this project is to utilise machine learning in javascript and create a model that can be used to identify numbers for an app.
+
+## Outcomes
+
+95% prediction accuracy on unseen data.
